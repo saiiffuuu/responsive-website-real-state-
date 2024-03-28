@@ -6,4 +6,4 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](/preview.png)
+![preview](https://github.com/saiiffuuu/responsive-website-real-state-/assets/86454862/2b100f65-7c6b-4bae-bfd1-ecbcdb9d4962)
